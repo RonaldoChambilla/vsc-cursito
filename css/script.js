@@ -1,1 +1,4 @@
-console.log("que mira bobo");
+num1 = 20
+num2 = 30
+result = num1 + num2
+console.log(result)
